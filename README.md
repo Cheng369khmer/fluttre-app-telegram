@@ -15,3 +15,16 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/ឈ្មោះអ្នកប្រើ/telegram_app.git
+cd telegram_app
+flutter pub get
+💡 ជំហានបន្ទាប់ដែលអ្នកគួរធ្វើ៖
+ប្រសិនបើអ្នកចង់បន្តអភិវឌ្ឍ Project នេះ កុំភ្លេចប្រើ Command ទាំងនេះដើម្បី Update កូដរបស់អ្នកទៅលើ GitHub៖
+
+ពិនិត្យមើលការផ្លាស់ប្តូរ: git status
+
+បន្ថែមការកែប្រែ: git add .
+
+Commit: git commit -m "បានបន្ថែម UI ថ្មីក្នុងទំព័រ Chat"
+
+Push ទៅ GitHub: git push origin main
